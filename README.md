@@ -1,27 +1,24 @@
 <img src="data/icon-resume.png" height="200"/>
-> 1分钟构建个人的在线简历
+> Quickly build online cv
 
-#### react + json 构建一份个人简历
-#### => [DEMO](http://www.jayinton.com/resume/build/) <=
+#### react + json build your resume
+#### => [DEMO](https://changrq.github.io/cv/) <=
 
-### 使用
+### Quick Start
 
-##### 1. Fork 这个仓库
-![](screenshot/step_0.png)
+##### 1. Fork this repo
 
-##### 2. 修改[resume.json](data/resume.json)(简历信息都写在里面)，填入你的信息
-![](screenshot/step_1.png)
+##### 2. Fill your information in [resume.json](data/resume.json)
 
-##### 3. 提交修改并push到你的GitHub
-![](screenshot/step_2.png)
+##### 3. Submit changes and push to your GitHub
 
-##### 4. 访问[http://you_username.github.io/resume/build/index.html](http://{you_username}.github.io/resume/build/index.html)
+##### 4. Visit http://{your_username}.github.io/cv/
 
 ### Development
 
 ```shell
 npm install
-npm run serve # 访问http://localhost:3000/resume/build/
+npm run serve # Visit http://localhost:3000/resume/build/
 gulp watch # build & watch
 ```
 
