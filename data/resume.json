@@ -2,128 +2,107 @@
     "avatar": "/resume/data/1.jpg",
     "background_image": "https://9to5mac.files.wordpress.com/2014/08/yosemite-3.jpg?w=1200&h=&crop=1",
     "basicinfo": {
-        "name": "唐杰英",
-        "description": "岂能尽如人意，但求无愧我心",
-        "school": "五邑大学",
-        "profession": "计算机科学与技术",
-        "sex": "男",
-        "education" : "本科",
-        "workage": "2016届毕业",
-        "phone": "15088132354",
-        "email": "tonjayin@gmail.com"
+        "name": "Ruiqing CHANG",
+        "description": "Non sibi sed patriae 👓",
+        "school": "Polytech Nice-Sophia",
+        "profession": "Applied Mathematics and Modeling (Data Science)",
+        "sex": "Male",
+        "education": "Engineer's degree",
+        "workage": "Graduate in 2020",
+        "phone": "+33 076****734",
+        "email": "rq.chang1994@gmail.com"
     },
-    "social":[
+    "social": [
         {
             "type": "github",
-            "link": "https://github.com/Jayin",
-            "icon": ""
-        },
-        {
-            "type": "weibo",
-            "link": "http://weibo.com/tjy273942569",
+            "link": "https://github.com/changrq",
             "icon": ""
         },
         {
             "type": "linkedin",
-            "link": "https://www.linkedin.com/pub/jayin-ton/100/85a/161",
+            "link": "https://www.linkedin.com/in/chrq",
             "icon": ""
         },
         {
             "type": "twitter",
-            "link": "https://twitter.com/Jayin_Ton",
+            "link": "https://twitter.com/Crq1994",
+            "icon": ""
+        },
+        {
+            "type": "weibo",
+            "link": "https://www.facebook.com/100015114616088",
             "icon": ""
         },
         {
             "type": "home",
-            "link": "http://jayinton.com",
+            "link": "https://plus.google.com/117773003492805988365",
             "icon": ""
         }
     ],
     "Awards": [
         {
-            "name": "五邑大学第十三/四届学术科技节之软件大赛一等奖(蝉联2年第一)"
+            "name": "CCKC"
         },
         {
-            "name": "第四届蓝桥杯全国软件专业人才设计与创业大赛C/C++本科B组广东赛区一等奖，全国决赛三等奖"
+            "name": "TOEIC"
         },
         {
-            "name": "第六届全国大学生网络商务创新应用大赛全国总决赛主题赛单项一等奖"
+            "name": "TCF"
         },
         {
-            "name": "2013百度校园助手大赛优秀开发奖"
-        },
-        {
-            "name": "2013华南资讯杯广东省Java程序员竞赛三等奖"
+            "name": "CET4"
         }
     ],
     "socialExperiences": [
         {
-            "name": "加入袂卓移动开发工作室",
-            "name_link": "meizhuo.org",
-            "description": "大学唯一加入的组织，期间与团队共同开发了校友录，东莞培训中心App，轻会议等多款产品"
+            "name": "IPv6 Resource Station Administrator",
+            "name_link": "https://bt.xihefeng.com",
+            "description": "Management operation and maintenance"
         },
         {
-            "name": "组织3次校内开发者交流会",
-            "name_link": "http://wuyiuniversity.github.io/",
-            "description": "受Ruby China Conf启发，也地处三线城市IT氛围不浓厚，所以自行组织了3次交流会"
+            "name": "Campus Representative CSMB Dell",
+            "name_link": "http://kedaibiao.dell-brand.com/",
+            "description": " Technical support"
         }
     ],
     "InternExperiences": [
         {
-            "name": "深圳三分线网络科技有限公司",
-            "name_link": "",
-            "title": "前端开发工程师",
+            "name": "Bayes Data Intelligence Technology Service Inc.",
+            "name_link": "http://www.bayesba.com/",
+            "title": "Data Analyst",
             "icon": "",
-            "description": "负责微信html5创意广告微信网页开发，参与报喜鸟，淘宝，亚洲环保创新论坛等案例的开发。 使用团队自行开发的前端框架html5slide。",
-            "time": "2015.04 - 2015.09",
-            "location": "广东 深圳"
+            "description": "Real Estate, Shopping Recommendation",
+            "time": "Jul 2018 - Sep 2018",
+            "location": "Xi'an, Shaanxi, China"
         },
         {
-            "name": "深圳百贝斯网络科技有限公司",
-            "name_link": "",
-            "title": "PHP开发工程师",
+            "name": "Neusoft",
+            "name_link": "https://www.neusoft.com/",
+            "title": "Java Developer",
             "icon": "",
-            "description": "基于开源商城系统OpenCart二次开发一外贸商城",
-            "time": "2014.07 - 2014.08",
-            "location": "广东 江门"
+            "description": "Code review",
+            "time": "Jul 2015 - Aug 2015",
+            "location": "Qingdao, Shandong, China"
         }
     ],
     "ProjectExperience": [
         {
-            "name": "ETips",
-            "name_link": "http://etips.github.io/",
-            "title": "Android App, 作者",
+            "name": "AI Recommender system",
+            "name_link": "https://www.yunyinxiaozhan.cn/",
+            "title": "Data development",
             "icon": "",
-            "description": "五邑大学校园助手，2一键导入课程表/图书检索、收藏/及时获取校园资讯/查空课室/电费, 已为7+K同学服务",
-            "time": "2013.07 - 至今",
-            "location": ""
+            "description": "Upload files to the cloud to print, and you can receive accurate personalized recommendations. The system is currently in Alpha version and is expected to be online Beta test at the end of the year.",
+            "time": "Jun 2018 - Present",
+            "location": "Beijing, China"
         },
         {
-            "name": "东莞技能培训中心",
-            "name_link": "",
-            "title": "Android App/PHP后端, 项目负责人",
+            "name": "Ad serving algorithm",
+            "name_link": "https://www.ouigreens.com/",
+            "title": "Algorithm",
             "icon": "",
-            "description": "主要负责PHP后端，采用ThinkPHP框架实现一个CMS、已经App广告管理后台；同时也负责Android端基础搭建",
-            "time": "2014.08 - 2014.12",
-            "location": ""
-        },
-        {
-            "name": "silentor",
-            "name_link": "https://github.com/Jayin/silentor",
-            "title": "JavaScript, forker",
-            "icon": "",
-            "description": "纯前端，基于markdown的博客",
-            "time": "2014.10 - 至今",
-            "location": ""
-        },
-        {
-            "name": "更多",
-            "name_link": "https://github.com/Jayin/jayin.github.io/blob/master/blog/p/projects/index.md",
-            "title": "",
-            "icon": "",
-            "description": "",
-            "time": "",
-            "location": ""
+            "description": "Using greedy algorithm, Hungarian algorithm and HWM algorithm to solve the optimization problem of bipartite graph under KKT conditions.",
+            "time": "Jun 2018 - Jun 2018",
+            "location": "Nice, France"
         }
     ]
 }
