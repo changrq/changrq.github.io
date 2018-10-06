@@ -4,6 +4,8 @@
     "basicinfo": {
         "name": "Ruiqing CHANG",
         "description": "Non sibi sed patriae 👓",
+        "school": "Data Science",
+        "profession": "",
         "sex": "Male",
         "education": "24 years old",
         "workage": "Driver's License",
@@ -43,7 +45,7 @@
             "name_link": "http://www.polytechnice.fr/",
             "title": "Engineer's degree",
             "icon": "/resume/data/pns.png",
-            "description": "Applied Mathematics and Modeling (Data Science)",
+            "description": "Applied Mathematics and Modeling",
             "time": "2016 - 2020",
             "location": "Biot, France"
         },
