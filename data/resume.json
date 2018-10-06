@@ -1,6 +1,6 @@
 {
     "avatar": "/resume/data/1.jpg",
-    "background_image": "https://9to5mac.files.wordpress.com/2014/08/yosemite-3.jpg?w=1200&h=&crop=1",
+    "background_image": "/resume/data/grid-AI.jpg",
     "basicinfo": {
         "name": "Ruiqing CHANG",
         "description": "Non sibi sed patriae 👓",
@@ -29,7 +29,7 @@
             "icon": ""
         },
         {
-            "type": "weibo",
+            "type": "facebook",
             "link": "https://www.facebook.com/100015114616088",
             "icon": ""
         },
@@ -41,28 +41,13 @@
     ],
     "Awards": [
         {
-            "name": "CCKC"
-        },
-        {
-            "name": "TOEIC"
-        },
-        {
-            "name": "TCF"
-        },
-        {
-            "name": "CET4"
-        }
-    ],
-    "socialExperiences": [
-        {
-            "name": "IPv6 Resource Station Administrator",
-            "name_link": "https://bt.xihefeng.com",
-            "description": "Management operation and maintenance"
-        },
-        {
-            "name": "Campus Representative CSMB Dell",
-            "name_link": "http://kedaibiao.dell-brand.com/",
-            "description": " Technical support"
+            "name": "China University of Petroleum",
+            "name_link": "http://english.upc.edu.cn/",
+            "title": "Bachelor of Science",
+            "icon": "/resume/data/0.png",
+            "description": "Mathematics and Applied Mathematics",
+            "time": "2012 - 2016",
+            "location": "Qingdao, Shandong, China"
         }
     ],
     "InternExperiences": [
@@ -103,6 +88,18 @@
             "description": "Using greedy algorithm, Hungarian algorithm and HWM algorithm to solve the optimization problem of bipartite graph under KKT conditions.",
             "time": "Jun 2018 - Jun 2018",
             "location": "Nice, France"
+        }
+    ],
+    "socialExperiences": [
+        {
+            "name": "IPv6 Resource Station Administrator",
+            "name_link": "https://bt.xihefeng.com",
+            "description": "Management operation and maintenance"
+        },
+        {
+            "name": "Campus Representative CSMB Dell",
+            "name_link": "http://kedaibiao.dell-brand.com/",
+            "description": " Technical support"
         }
     ]
 }
