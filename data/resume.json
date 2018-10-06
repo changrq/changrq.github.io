@@ -4,8 +4,6 @@
     "basicinfo": {
         "name": "Ruiqing CHANG",
         "description": "Non sibi sed patriae 👓",
-        "school": "Polytech Nice-Sophia",
-        "profession": "Applied Mathematics and Modeling (Data Science)",
         "sex": "Male",
         "education": "Engineer's degree",
         "workage": "Graduate in 2020",
@@ -40,6 +38,15 @@
         }
     ],
     "Awards": [
+        {
+            "name": "Polytech Nice-Sophia",
+            "name_link": "http://english.upc.edu.cn/",
+            "title": "Engineer's degree",
+            "icon": "/resume/data/0.png",
+            "description": "Applied Mathematics and Modeling (Data Science)",
+            "time": "2012 - 2016",
+            "location": "Qingdao, Shandong, China"
+        },
         {
             "name": "China University of Petroleum",
             "name_link": "http://english.upc.edu.cn/",
