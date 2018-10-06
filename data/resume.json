@@ -4,7 +4,7 @@
     "basicinfo": {
         "name": "Ruiqing CHANG",
         "description": "Non sibi sed patriae 👓",
-        "school": "PNS",
+        "school": "Master",
         "profession": "Data Science",
         "sex": "Male",
         "education": "24 years old",
@@ -108,7 +108,7 @@
         {
             "name": "Campus Representative CSMB Dell",
             "name_link": "http://kedaibiao.dell-brand.com/",
-            "description": " Technical support"
+            "description": "Technical support"
         }
     ]
 }
