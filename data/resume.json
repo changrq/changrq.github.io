@@ -1,6 +1,6 @@
 {
-    "avatar": "/resume/data/1.jpg",
-    "background_image": "/resume/data/grid-AI.jpg",
+    "avatar": "data/1.jpg",
+    "background_image": "data/grid-AI.jpg",
     "basicinfo": {
         "name": "Ruiqing CHANG",
         "description": "Non sibi sed patriae 👓",
@@ -44,7 +44,7 @@
             "name": "Polytech Nice-Sophia",
             "name_link": "http://www.polytechnice.fr/",
             "title": "Engineer's degree",
-            "icon": "/resume/data/pns.png",
+            "icon": "data/pns.png",
             "description": "Applied Mathematics and Modeling",
             "time": "2016 - 2020",
             "location": "Biot, France"
@@ -53,7 +53,7 @@
             "name": "China University of Petroleum",
             "name_link": "http://english.upc.edu.cn/",
             "title": "Bachelor of Science",
-            "icon": "/resume/data/0.png",
+            "icon": "data/0.png",
             "description": "Mathematics and Applied Mathematics",
             "time": "2012 - 2016",
             "location": "Qingdao, Shandong, China"
@@ -64,7 +64,7 @@
             "name": "Bayes Data Intelligence Technology Service Inc.",
             "name_link": "http://www.bayesba.com/",
             "title": "Data Analyst",
-            "icon": "/resume/data/logo.png",
+            "icon": "data/logo.png",
             "description": "Real Estate, Shopping Recommendation",
             "time": "Jul 2018 - Sep 2018",
             "location": "Xi'an, Shaanxi, China"
@@ -73,7 +73,7 @@
             "name": "Neusoft",
             "name_link": "https://www.neusoft.com/",
             "title": "Java Developer",
-            "icon": "/resume/data/1.png",
+            "icon": "data/1.png",
             "description": "Code review",
             "time": "Jul 2015 - Aug 2015",
             "location": "Qingdao, Shandong, China"
@@ -84,7 +84,7 @@
             "name": "AI Recommender system",
             "name_link": "https://www.yunyinxiaozhan.cn/",
             "title": "Data development",
-            "icon": "/resume/data/yyxz.png",
+            "icon": "data/yyxz.png",
             "description": "Upload files to the cloud to print, and you can receive accurate personalized recommendations. The system is currently in Alpha version and is expected to be online Beta test at the end of the year.",
             "time": "Jun 2018 - Present",
             "location": "Beijing, China"
@@ -93,7 +93,7 @@
             "name": "Ad serving algorithm",
             "name_link": "https://www.ouigreens.com/",
             "title": "Algorithm",
-            "icon": "/resume/data/og.png",
+            "icon": "data/og.png",
             "description": "Using greedy algorithm, Hungarian algorithm and HWM algorithm to solve the optimization problem of bipartite graph under KKT conditions.",
             "time": "Jun 2018 - Jun 2018",
             "location": "Nice, France"
