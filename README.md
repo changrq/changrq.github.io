@@ -24,4 +24,4 @@ gulp watch # build & watch
 
 ### License
 
-MIT
+WTFPL
