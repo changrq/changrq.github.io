@@ -1,8 +1,8 @@
 <img src="data/icon-resume.png" height="200"/>
-> Quickly build online cv
+> Quickly build online resume
 
 #### react + json build your resume
-#### => [DEMO](https://changrq.github.io/cv/) <=
+#### => [DEMO](https://changrq.github.io/resume/) <=
 
 ### Quick Start
 
@@ -12,7 +12,7 @@
 
 ##### 3. Submit changes and push to your GitHub
 
-##### 4. Visit http://{your_username}.github.io/cv/
+##### 4. Visit http://{your_username}.github.io/resume/
 
 ### Development
 
