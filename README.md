@@ -12,7 +12,7 @@
 
 ##### 3. Submit changes and push to your GitHub
 
-##### 4. Visit http://{your_username}.github.io/resume/
+##### 4. Visit https://{your_username}.github.io/resume/
 
 ### Development
 
