@@ -3,13 +3,13 @@
     "background_image": "data/grid-AI.jpg",
     "basicinfo": {
         "name": "Ruiqing CHANG",
-        "description": "Non sibi sed patriae 👓",
+        "description": "Non sibi sed patriae👓",
         "school": "Master",
         "profession": "Data Science",
         "sex": "Male",
         "education": "24 years old",
         "workage": "Driver's License",
-        "phone": "+33 7 60 38 47 34",
+        "phone": "+33 760384734",
         "email": "rq.chang1994@gmail.com"
     },
     "social": [
@@ -46,7 +46,7 @@
             "title": "Engineer's degree",
             "icon": "data/pns.png",
             "description": "Applied Mathematics and Modeling",
-            "time": "2016 - 2020",
+            "time": "2016 - present",
             "location": "Biot, France"
         },
         {
@@ -66,8 +66,8 @@
             "title": "Data Analyst",
             "icon": "data/logo.png",
             "description": "Real Estate, Shopping Recommendation",
-            "time": "Jul 2018 - Sep 2018",
-            "location": "Xi'an, Shaanxi, China"
+            "time": "July 2018 - Sep. 2018",
+            "location": "Xi'an, China"
         },
         {
             "name": "Neusoft",
@@ -75,8 +75,8 @@
             "title": "Java Developer",
             "icon": "data/1.png",
             "description": "Code review",
-            "time": "Jul 2015 - Aug 2015",
-            "location": "Qingdao, Shandong, China"
+            "time": "July 2015 - Aug 2015",
+            "location": "Qingdao, China"
         }
     ],
     "ProjectExperience": [
@@ -86,7 +86,7 @@
             "title": "Data development",
             "icon": "data/yyxz.png",
             "description": "Upload files to the cloud to print, and you can receive accurate personalized recommendations. The system is currently in Alpha version and is expected to be online Beta test at the end of the year.",
-            "time": "Jun 2018 - Present",
+            "time": "June 2018 - Present",
             "location": "Beijing, China"
         },
         {
@@ -95,7 +95,7 @@
             "title": "Algorithm",
             "icon": "data/og.png",
             "description": "Using greedy algorithm, Hungarian algorithm and HWM algorithm to solve the optimization problem of bipartite graph under KKT conditions.",
-            "time": "Jun 2018 - Jun 2018",
+            "time": "June 2018",
             "location": "Nice, France"
         }
     ],
@@ -103,12 +103,14 @@
         {
             "name": "IPv6 Resource Station Administrator",
             "name_link": "https://bt.xihefeng.com",
-            "description": "Management operation and maintenance"
+            "description": "Management operation and maintenance",
+			"time": "Sept. 2014 - June 2016"
         },
         {
             "name": "Campus Representative CSMB Dell",
             "name_link": "http://kedaibiao.dell-brand.com/",
-            "description": "Technical support"
+            "description": "Technical support",
+			"time": "Oct. 2013 - July 2014"
         }
     ]
 }
